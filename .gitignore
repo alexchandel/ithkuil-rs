@@ -1,3 +1,6 @@
+/Cargo.lock
+/target
+
 # Object files
 *.o
 *.ko
